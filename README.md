@@ -12,19 +12,19 @@ O Moss é uma ferramenta utilizada por professores de universidades pelo mundo p
 - Mova a pasta QuickStart para a pasta raiz do seu computador, ou seja, *C:\QuickStart*
 - Em seguida coloque os arquivos que deseja verificar na pasta ArquivosParaTeste seguindo essa hierarquia:
 
-	¬ArquivosParaTeste
+        ¬ArquivosParaTeste
 
-		¬Aluno1
-        
-			¬arquivoX.java
+            ¬Aluno1
+            
+                ¬arquivoX.java
 
-		¬Aluno2
+            ¬Aluno2
 
-			¬arquivoY.java
+                ¬arquivoY.java
 
-		¬Aluno3
+            ¬Aluno3
 
-			¬arquivoZ.java
+                ¬arquivoZ.java
 
 
 - Abra a pasta QuickStart em seu Eclipse e execute o arquivo main.java.
