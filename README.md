@@ -4,9 +4,9 @@ Repositório simples para enviar arquivos ao Moss e verificar se os arquivos fon
 
 O Moss é uma ferramenta utilizada por professores de universidades pelo mundo para verificar a possibilidade de plágio entre trabalhos dos alunos.
 
-##QuickStart
+## QuickStart
 
-######Para uma rapida implementação do sistema:
+###### Para uma rapida implementação do sistema:
 
 -Clone o repositório em seu computador
 -Mova a pasta QuickStart para a pasta raiz do seu computador, ou seja, *C:\QuickStart*
